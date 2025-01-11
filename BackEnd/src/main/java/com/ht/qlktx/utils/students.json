@@ -1,0 +1,272 @@
+[
+  {
+    "id": "N21DCCN001",
+    "first_name": "Huy",
+    "last_name": "Nguyễn",
+    "sex": "MALE",
+    "date_of_birth": "1990-01-01",
+    "address": "Address 1",
+    "phone": "0123456789"
+  },
+  {
+    "id": "N21DCCN002",
+    "first_name": "Linh",
+    "last_name": "Trần",
+    "sex": "FEMALE",
+    "date_of_birth": "1995-02-02",
+    "address": "Address 2",
+    "phone": "9876543210"
+  },
+  {
+    "id": "N21DCCN003",
+    "first_name": "Đức",
+    "last_name": "Phạm",
+    "sex": "MALE",
+    "date_of_birth": "1993-03-03",
+    "address": "Address 3",
+    "phone": "0223456789"
+  },
+  {
+    "id": "N21DCCN004",
+    "first_name": "Thu",
+    "last_name": "Nguyễn",
+    "sex": "FEMALE",
+    "date_of_birth": "1997-04-04",
+    "address": "Address 4",
+    "phone": "0287654321"
+  },
+  {
+    "id": "N21DCCN005",
+    "first_name": "Nam",
+    "last_name": "Hoàng",
+    "sex": "MALE",
+    "date_of_birth": "1991-05-05",
+    "address": "Address 5",
+    "phone": "0323456789"
+  },
+  {
+    "id": "N21DCCN006",
+    "first_name": "Hằng",
+    "last_name": "Võ",
+    "sex": "FEMALE",
+    "date_of_birth": "1996-06-06",
+    "address": "Address 6",
+    "phone": "0387654321"
+  },
+  {
+    "id": "N21DCCN007",
+    "first_name": "Minh",
+    "last_name": "Đặng",
+    "sex": "MALE",
+    "date_of_birth": "1992-07-07",
+    "address": "Address 7",
+    "phone": "0423456789"
+  },
+  {
+    "id": "N21DCCN008",
+    "first_name": "Thảo",
+    "last_name": "Lê",
+    "sex": "FEMALE",
+    "date_of_birth": "1998-08-08",
+    "address": "Address 8",
+    "phone": "0487654321"
+  },
+  {
+    "id": "N21DCCN009",
+    "first_name": "Dũng",
+    "last_name": "Trần",
+    "sex": "MALE",
+    "date_of_birth": "1994-09-09",
+    "address": "Address 9",
+    "phone": "0523456789"
+  },
+  {
+    "id": "N21DCCN010",
+    "first_name": "Diệu",
+    "last_name": "Phan",
+    "sex": "FEMALE",
+    "date_of_birth": "1993-10-10",
+    "address": "Address 10",
+    "phone": "0587654321"
+  },
+  {
+    "id": "N21DCCN011",
+    "first_name": "Long",
+    "last_name": "Vương",
+    "sex": "MALE",
+    "date_of_birth": "1997-11-11",
+    "address": "Address 11",
+    "phone": "0623456789"
+  },
+  {
+    "id": "N21DCCN012",
+    "first_name": "Quỳnh",
+    "last_name": "Nguyễn",
+    "sex": "FEMALE",
+    "date_of_birth": "1996-12-12",
+    "address": "Address 12",
+    "phone": "0687654321"
+  },
+  {
+    "id": "N21DCCN013",
+    "first_name": "Tuấn",
+    "last_name": "Trần",
+    "sex": "MALE",
+    "date_of_birth": "1992-01-13",
+    "address": "Address 13",
+    "phone": "0723456789"
+  },
+  {
+    "id": "N21DCCN014",
+    "first_name": "Mai",
+    "last_name": "Nguyễn",
+    "sex": "FEMALE",
+    "date_of_birth": "1995-02-14",
+    "address": "Address 14",
+    "phone": "0787654321"
+  },
+  {
+    "id": "N21DCCN015",
+    "first_name": "Hoàng",
+    "last_name": "Ngô",
+    "sex": "MALE",
+    "date_of_birth": "1991-03-15",
+    "address": "Address 15",
+    "phone": "0823456789"
+  },
+  {
+    "id": "N21DCCN016",
+    "first_name": "Thu",
+    "last_name": "Phạm",
+    "sex": "FEMALE",
+    "date_of_birth": "1994-04-16",
+    "address": "Address 16",
+    "phone": "0887654321"
+  },
+  {
+    "id": "N21DCCN017",
+    "first_name": "Việt",
+    "last_name": "Lê",
+    "sex": "MALE",
+    "date_of_birth": "1993-05-17",
+    "address": "Address 17",
+    "phone": "0923456789"
+  },
+  {
+    "id": "N21DCCN018",
+    "first_name": "Thảo",
+    "last_name": "Vũ",
+    "sex": "FEMALE",
+    "date_of_birth": "1996-06-18",
+    "address": "Address 18",
+    "phone": "0087654321"
+  },
+  {
+    "id": "N21DCCN019",
+    "first_name": "Đăng",
+    "last_name": "Nguyễn",
+    "sex": "MALE",
+    "date_of_birth": "1990-07-19",
+    "address": "Address 19",
+    "phone": "0123456782"
+  },
+  {
+    "id": "N21DCCN020",
+    "first_name": "Hằng",
+    "last_name": "Trần",
+    "sex": "FEMALE",
+    "date_of_birth": "1995-08-20",
+    "address": "Address 20",
+    "phone": "0987654322"
+  },
+  {
+    "id": "N21DCCN021",
+    "first_name": "Hùng",
+    "last_name": "Lê",
+    "sex": "MALE",
+    "date_of_birth": "1992-09-21",
+    "address": "Address 21",
+    "phone": "0123456783"
+  },
+  {
+    "id": "N21DCCN022",
+    "first_name": "Lan",
+    "last_name": "Nguyễn",
+    "sex": "FEMALE",
+    "date_of_birth": "1997-10-22",
+    "address": "Address 22",
+    "phone": "0987654323"
+  },
+  {
+    "id": "N21DCCN023",
+    "first_name": "Đức",
+    "last_name": "Phan",
+    "sex": "MALE",
+    "date_of_birth": "1994-11-23",
+    "address": "Address 23",
+    "phone": "0123456784"
+  },
+  {
+    "id": "N21DCCN024",
+    "first_name": "Mai",
+    "last_name": "Hoàng",
+    "sex": "FEMALE",
+    "date_of_birth": "1991-12-24",
+    "address": "Address 24",
+    "phone": "0987654324"
+  },
+  {
+    "id": "N21DCCN025",
+    "first_name": "Trung",
+    "last_name": "Vương",
+    "sex": "MALE",
+    "date_of_birth": "1996-01-25",
+    "address": "Address 25",
+    "phone": "0123456785"
+  },
+  {
+    "id": "N21DCCN026",
+    "first_name": "Hồng",
+    "last_name": "Phạm",
+    "sex": "FEMALE",
+    "date_of_birth": "1995-02-26",
+    "address": "Address 26",
+    "phone": "0987654325"
+  },
+  {
+    "id": "N21DCCN027",
+    "first_name": "Thắng",
+    "last_name": "Lê",
+    "sex": "MALE",
+    "date_of_birth": "1992-03-27",
+    "address": "Address 27",
+    "phone": "0123456786"
+  },
+  {
+    "id": "N21DCCN028",
+    "first_name": "Quỳnh",
+    "last_name": "Đặng",
+    "sex": "FEMALE",
+    "date_of_birth": "1997-04-28",
+    "address": "Address 28",
+    "phone": "0987654326"
+  },
+  {
+    "id": "N21DCCN029",
+    "first_name": "Bình",
+    "last_name": "Trần",
+    "sex": "MALE",
+    "date_of_birth": "1993-05-29",
+    "address": "Address 29",
+    "phone": "0123456787"
+  },
+  {
+    "id": "N21DCCN030",
+    "first_name": "Quý",
+    "last_name": "Nguyễn",
+    "sex": "MALE",
+    "date_of_birth": "1998-06-30",
+    "address": "Address 30",
+    "phone": "0987654327"
+  }
+]

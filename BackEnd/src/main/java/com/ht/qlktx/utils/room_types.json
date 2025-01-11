@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Dịch vụ 1",
+    "capacity": 4,
+    "price": 500000
+  },
+  {
+    "name": "Dịch vụ 2",
+    "capacity": 8,
+    "price": 300000
+  },
+  {
+    "name": "Thường 1",
+    "capacity": 8,
+    "price": 150000
+  },
+  {
+    "name": "Thường 2",
+    "capacity": 12,
+    "price": 100000
+  }
+]

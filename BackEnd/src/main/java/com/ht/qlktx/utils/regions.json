@@ -1,0 +1,27 @@
+[
+  {
+    "id": "A",
+    "name": "Dãy A",
+    "sex": "MALE"
+  },
+  {
+    "id": "D",
+    "name": "Dãy D",
+    "sex": "FEMALE"
+  },
+  {
+    "id": "E",
+    "name": "Dãy E",
+    "sex": "MALE"
+  },
+  {
+    "id": "B",
+    "name": "Dãy B",
+    "sex": "MALE"
+  },
+  {
+    "id": "B1",
+    "name": "Dãy B1",
+    "sex": "FEMALE"
+  }
+]
