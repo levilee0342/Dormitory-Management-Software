@@ -4,8 +4,6 @@
 
 The "Dormitory Management Software for PTITHCM" is a system developed for the Posts and Telecommunications Institute of Technology, Ho Chi Minh City. The platform simplifies student dormitory operations such as student registration, room allocation, and service management, enabling efficient administration of dormitory resources and billing.
 
-### **Demo** : 
-    You can check out the project demo at:
 #### **Screenshots**
 
 ##### 1. Homepage
@@ -19,6 +17,9 @@ This is the interface for creating a new rental receipt, consisting of 4 steps: 
 ##### 3. Invoices
 This is the interface displaying the unpaid invoices.
 ![image](https://github.com/user-attachments/assets/c55d35d6-e42e-47db-906e-907af3ad3ae0)
+
+### You can check out the full project demo at: 
+    https://github.com/levilee0342/Dormitory-Management-Software/blob/main/Demo.md
 
 ### Key Features:
 **For Students:**
